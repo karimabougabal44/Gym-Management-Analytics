@@ -1,0 +1,101 @@
+ClassID,ClassName,TrainerID,Schedule,Capacity
+1,Yoga,20,10:00 AM,28
+2,Boxing,30,04:00 PM,12
+3,Spinning,39,07:00 PM,24
+4,Functional Training,30,12:00 PM,18
+5,Pilates,19,12:00 PM,28
+6,Strength Training,34,04:00 PM,30
+7,Spinning,41,10:00 AM,24
+8,Kickboxing,29,04:00 PM,25
+9,Kickboxing,25,12:00 PM,23
+10,Strength Training,1,08:00 PM,15
+11,Circuit Training,16,07:00 PM,17
+12,HIIT,29,10:00 AM,13
+13,Zumba,9,12:00 PM,18
+14,Strength Training,49,04:00 PM,24
+15,Aerobics,3,10:00 AM,17
+16,Yoga,34,10:00 AM,25
+17,Boxing,45,04:00 PM,14
+18,Body Pump,10,10:00 AM,25
+19,Body Pump,5,04:00 PM,16
+20,Kickboxing,34,12:00 PM,18
+21,Aerobics,38,08:00 AM,24
+22,Boxing,40,04:00 PM,10
+23,Cardio,13,08:00 AM,23
+24,Zumba,23,08:00 AM,25
+25,Functional Training,37,12:00 PM,20
+26,Aerobics,41,04:00 PM,13
+27,Pilates,31,12:00 PM,21
+28,Circuit Training,2,08:00 PM,18
+29,Boxing,37,08:00 PM,15
+30,Spinning,49,12:00 PM,18
+31,Cardio,34,06:00 PM,10
+32,Boxing,48,08:00 AM,17
+33,Spinning,32,04:00 PM,10
+34,Mobility,3,08:00 AM,18
+35,Cardio,25,08:00 AM,11
+36,Mobility,35,06:00 PM,22
+37,HIIT,28,04:00 PM,10
+38,Zumba,10,08:00 AM,16
+39,Yoga,26,06:00 PM,20
+40,Spinning,13,07:00 PM,10
+41,Spinning,26,06:00 PM,26
+42,Functional Training,18,07:00 PM,24
+43,Yoga,47,04:00 PM,26
+44,Body Pump,45,10:00 AM,20
+45,Circuit Training,45,04:00 PM,28
+46,Circuit Training,46,08:00 PM,25
+47,Kickboxing,35,07:00 PM,11
+48,Zumba,2,08:00 PM,19
+49,Functional Training,10,07:00 PM,19
+50,Boxing,8,08:00 PM,15
+51,HIIT,41,06:00 PM,25
+52,Spinning,27,12:00 PM,25
+53,Kickboxing,10,06:00 PM,29
+54,Yoga,4,07:00 PM,20
+55,Spinning,7,12:00 PM,10
+56,Kickboxing,39,08:00 AM,11
+57,Body Pump,7,04:00 PM,23
+58,Circuit Training,22,10:00 AM,18
+59,Mobility,25,04:00 PM,29
+60,Aerobics,24,08:00 PM,25
+61,Zumba,26,07:00 PM,20
+62,Kickboxing,33,12:00 PM,11
+63,Circuit Training,18,08:00 PM,24
+64,Circuit Training,29,06:00 PM,15
+65,Strength Training,7,04:00 PM,21
+66,Boxing,46,07:00 PM,16
+67,CrossFit,21,06:00 PM,15
+68,Spinning,1,04:00 PM,15
+69,Boxing,25,10:00 AM,10
+70,Body Pump,44,06:00 PM,28
+71,Functional Training,30,10:00 AM,12
+72,Mobility,35,10:00 AM,23
+73,Pilates,44,08:00 AM,18
+74,Mobility,43,08:00 AM,25
+75,Mobility,23,07:00 PM,16
+76,Functional Training,33,04:00 PM,12
+77,Cardio,15,12:00 PM,20
+78,Zumba,48,08:00 AM,22
+79,CrossFit,3,08:00 AM,18
+80,Pilates,9,12:00 PM,18
+81,Kickboxing,42,08:00 AM,23
+82,Functional Training,8,10:00 AM,15
+83,HIIT,10,12:00 PM,30
+84,Aerobics,9,08:00 PM,20
+85,CrossFit,11,12:00 PM,15
+86,Kickboxing,23,12:00 PM,16
+87,Yoga,41,06:00 PM,11
+88,Kickboxing,2,07:00 PM,30
+89,Aerobics,50,04:00 PM,18
+90,Yoga,33,10:00 AM,13
+91,Zumba,38,10:00 AM,16
+92,Body Pump,12,07:00 PM,26
+93,Strength Training,33,12:00 PM,17
+94,Boxing,34,06:00 PM,30
+95,Kickboxing,17,12:00 PM,23
+96,Kickboxing,33,10:00 AM,15
+97,Pilates,6,06:00 PM,30
+98,Cardio,20,08:00 AM,22
+99,Pilates,36,08:00 AM,19
+100,Cardio,6,07:00 PM,27
